@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+
+
+}
+
+header{
+    --color: #960d0d;
+    --color2:#212121;
+    background-color: var(--color2);
+    
+}
+
+h1{
+    color: var(--color);
+}
+
+h2{
+    text-align: left;
+    color: var(--color);
+}
+
+p{
+    text-align: left;
+    color: var(--color);
+
+}
